@@ -1,2 +1,11 @@
- Relational Data - What would be the primary key in the customers and orders table? The Primary keys in the customers and orders table would be the user name and order number.
- 
+Relational Data - 
+What would be the primary key in the customers and orders table? The Primary keys in the customers and orders table would be the user name and order number.
+How would the customers and orders table be related? These tables are related in the sense that they cannot be changed.
+The orders table would likely have a date field.  Explain why it is important to properly define the data type of a field. This data would be important for order tracking on a particular day to pinpoint transactions.
+Big Data -
+Briefly describe the four "Vs" of big data. they are 
+volume - is the quanity of data
+variety - are the different types of data
+velocity - speed of data generation
+variability - inconsistency of data
+What types of technology have driven the increased need for big data? social media and online shopping apps to name a few.
