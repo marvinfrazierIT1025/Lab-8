@@ -1,2 +1,3 @@
 Explain how SQL injections are a security threat and what can be done to reduce the issue. 
- 
+SQL injecions are a threat becuase they destroy a database.
+One of the best practices to identify SQL injection attacks is having a web application firewall (WAF).
