@@ -1,1 +1,2 @@
 Explain RDBMS and how it relates to SQL and the purpose of SQL: RDBMS stands for Relational Database Management System. RDBMS is the basis for SQL. SQL lets you access and manipulate databases
+The employee table contains the primary key while the order table contains the foreign key. the relationship in the to tables is exhibited by showing what employee is connected to the order.
